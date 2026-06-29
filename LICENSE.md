@@ -1,4 +1,4 @@
-#  
+#  underground Script for hypershot offers the most advanced hypershot Script, with auto-sell and silent aim. Perfect for dominating any match.
 
 
 
